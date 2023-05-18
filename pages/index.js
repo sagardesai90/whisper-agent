@@ -4,12 +4,13 @@ import styles from '../styles/Home.module.css';
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Head>
+      
+      {/* <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head>
+      </Head> */}
 
-      <main>
+      {/* <main>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
@@ -47,9 +48,9 @@ export default function Home() {
             </p>
           </a>
         </div>
-      </main>
+      </main> */}
 
-      <footer>
+      {/* <footer>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
@@ -58,7 +59,7 @@ export default function Home() {
           Powered by{' '}
           <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
         </a>
-      </footer>
+      </footer> */}
 
       <style jsx>{`
         main {
