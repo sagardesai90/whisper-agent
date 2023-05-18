@@ -10,6 +10,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head> */}
 
+      <div>
+        HackAIthon
+      </div>
+
       {/* <main>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
